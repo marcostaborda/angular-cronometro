@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cronometro"
+    }
+  },
+  "defaultProject": "cronometro",
+  "cli": {
+    "analytics": "607c2942-3fa7-4226-ab28-5a2d384ac41f"
+  }
 }
